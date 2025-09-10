@@ -32,7 +32,9 @@ to practice REST API integration, state management, and UI/UX design in Flutter.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/>
-  <img src="assets/screenshots/weather_detail.png" alt="Weather Details" width="250"/>
+  <img src="assets/screenshots/Weather_Home.jpg" alt="Home Screen" width="250"/>
+  <img src="assets/screenshots/Weather_Search.jpg" alt="Search Screen" width="250"/>
+  <img src="assets/screenshots/Weather_Detail.jpg" alt="Weather Details" width="250"/>
+  <img src="assets/screenshots/Weather_Detail2.jpg" alt="Weather Details" width="250"/>
 </p>
 
