@@ -1,0 +1,53 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.meloss
+
+# Generated files
+*.log
+*.lock
+*.pyc
+*.swp
+*.tmp
+*.class
+
+# Android related
+*.apk
+*.aar
+*.iml
+.gradle/
+local.properties
+.idea/
+android/app/debug
+android/app/profile
+android/app/release
+
+# iOS related
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/Pods
+**/ios/.symlinks
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/ephemeral
+**/ios/Runner/GeneratedPluginRegistrant.*
+
+# VS Code & IntelliJ
+.vscode/
+.idea/
+*.iml
+
+# MacOS
+.DS_Store
+
+# Linux
+*.so
+
+# Windows
+*.exe
+*.dll
+*.pdb
