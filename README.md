@@ -27,3 +27,12 @@ Packages: http, provider
 
 This project was built mainly for learning purposes –
 to practice REST API integration, state management, and UI/UX design in Flutter.
+
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/home.png" alt="Home Screen" width="250"/>
+  <img src="assets/screenshots/weather_detail.png" alt="Weather Details" width="250"/>
+</p>
+
