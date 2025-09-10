@@ -1,16 +1,29 @@
-# weather_app
+📱 Weather App
 
-A new Flutter project.
+This is a simple Weather Application built with Flutter.
+I created this app while learning about HTTP requests and state management using Provider.
 
-## Getting Started
+🔑 Key Features:
 
-This project is a starting point for a Flutter application.
+🌤️ Fetches real-time weather data using the OpenWeatherMap API
 
-A few resources to get you started if this is your first Flutter project:
+⚡ Built with Flutter’s HTTP package for REST API calls
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🔄 State management handled with Provider
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Clean and responsive UI/UX design for better user experience
+
+🛠️ Tech Stack:
+
+Framework: Flutter
+
+State Management: Provider
+
+API: OpenWeatherMap
+
+Packages: http, provider
+
+🎯 Purpose:
+
+This project was built mainly for learning purposes –
+to practice REST API integration, state management, and UI/UX design in Flutter.
